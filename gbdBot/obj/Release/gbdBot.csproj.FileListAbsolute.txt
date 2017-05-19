@@ -1,0 +1,40 @@
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Bot Application.dll.config
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Bot Application.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Bot Application.pdb
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Autofac.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Chronic.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Newtonsoft.Json.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\System.Net.Http.Formatting.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\System.Web.Http.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\System.Web.Http.WebHost.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Autofac.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\Newtonsoft.Json.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\System.Net.Http.Formatting.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\System.Web.Http.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\System.Web.Http.WebHost.xml
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\obj\Release\Bot Application.dll
+C:\Users\gbd\Documents\Visual Studio 2017\Projects\gbdBot\gbdBot\obj\Release\Bot Application.pdb
